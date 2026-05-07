@@ -1,8 +1,7 @@
-# thinkpalm-agentai-SintoJoy-ReAct_Agent
-echo "# thinkpalm-agentai-SintoJoy-ReAct_Agent" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/sintojoy/thinkpalm-agentai-SintoJoy-ReAct_Agent.git
-git push -u origin main
+# [Sinto Joy]
+
+**Track:** [https://github.com/sintojoy/thinkpalm-agentai-SintoJoy-ReAct_Agent/]
+**Lab Name:** [Sinto_Joy_Lab 1_ReAct Agent_QuizMaster_AI.ipynb]
+
+## What it does
+This repository contains the implementation of a ReAct Agent, demonstrating basic tool use and reasoning capabilities within a Google Colab environment.
